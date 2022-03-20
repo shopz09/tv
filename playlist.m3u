@@ -1,4 +1,3 @@
-#EXTINF: -1 tvg-id="173" tvg-name="Aaj Tak" tvg-chno="9" tvg-logo="http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="Hindi;News", Aaj Tak HD
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
-#EXTINF: -1 tvg-id="177" tvg-name="ABP News India" tvg-chno="11" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="Hindi;News", ABP News India
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
+#EXTM3U 
+#EXTINF: -1 tvg-name="Bigil 2019 Hindi Dubbed" tvg-logo="https://saicord.com/uploads/posts/2022-01/1642594495_poster_v_hi.jpg" group-title="Hindi Movie", Bigil 2019 Hindi Dubbed
+https://polonium.saicdn.com/video/tt9260636/hindi/fd51ff8c4460f30e9468d2accfb2d52a:2022032109/720.mp4:hls:manifest.m3u8
